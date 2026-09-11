@@ -33,5 +33,6 @@ Sistem telah diimplementasikan dan digunakan aktif di 6 lokasi dapur:
 3. Database: MySQL
 
 <img width="360" height="180" alt="image" src="https://github.com/user-attachments/assets/5005c1b8-baca-44b8-9636-406cdd9e0ddf" />
-<img width="360" height="180" alt="image" src="https://github.com/user-attachments/assets/90e0cef5-0792-4d0c-b472-6a2e7196c014" />
+<img width="360" height="180" alt="image" src="https://github.com/user-attachments/assets/6bb73e3d-ecf9-4e86-8187-4e92d94f7720" />
+
 
